@@ -1,6 +1,8 @@
 <?php
 
+
 use Illuminate\Database\Seeder;
+use App\Article;
 
 class ArticlesTableSeeder extends Seeder
 {
